@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "BGVAR"]
+	path = BGVAR
+	url = https://github.com/mboeck11/bgvar
+	shallow = true
+	registered = true
